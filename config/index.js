@@ -75,7 +75,7 @@ export const config = {
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.bilibili.com/",
-    }]
+    }],
 
   /**
    * 【推送完成提醒】 相关，主要用来展示发送是否成功/失败的数据
