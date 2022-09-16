@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "可爱小猪猪",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o8IV76EK2oaw5MqU6-U3pUDhm-pk",
+      id: "o8IV76Nn-71BnpsaemBhf8aK7EFI",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "WWgM7jOG0KDzIp-WZGOLd5gCjd6pPv8oV-jzPqarm24",
       // 所在省份
